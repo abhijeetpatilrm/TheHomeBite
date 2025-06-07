@@ -38,3 +38,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="razorpay" />
 </p>
+
+
+
+The HomeBite is MERN Stack Homemade Food Service web application that allows you to buy home made dishes online with payment gateway integration. It has a variety of categories, just visit the provider listing page and you will see all the providers in area, apply filters as per your need and in just a few clicks you can buy any meal from the website.
