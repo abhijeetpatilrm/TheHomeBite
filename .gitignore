@@ -1,0 +1,58 @@
+# Node.js and npm files
+node_modules/
+npm-debug.log
+
+# MongoDB files
+data/
+
+# Express.js files
+config.env
+logs/
+
+# React files
+
+build/
+*.js.map
+
+# Other files and folders that are not relevant to the project
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+*.ipynb
+*.swp
+*.swo
+
+# OS-specific files
+*.tmp
+*.temp
+*.bak
+*.old
+
+# Cache files
+*.cache
+
+# Coverage files
+coverage/
+
+# Debug files
+debug.log
+
+# Test files
+test-results.xml
+
+# Logs files
+logs/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
