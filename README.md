@@ -69,7 +69,7 @@ The HomeBite is MERN Stack Homemade Food Service web application that allows you
 - Order Management Page
 - Meal Management Page
 - Razorpay Payment Gateway
-
+- Send Email On Purchase and Order Status Update
 
 <br />
 
