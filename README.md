@@ -22,7 +22,7 @@
 
 ## 🚀 Introduction
 
-**TheHomeBite** isn’t just a food delivery app — it’s a tech-powered tribute to the warmth of homemade meals. Built using the MERN stack, it connects users with local home chefs, combining seamless UX with real-world features like secure payments, smart filtering, order tracking, and email alerts. It’s crafted for scalability, responsiveness, and real-world impact — perfect for developers and recruiters seeking clean, production-ready architecture and thoughtful UX.
+**TheHomeBite**is a thoughtfully built web application that brings the comfort of homemade food to people with busy lives. Whether you're a student, a working professional, or someone who simply misses home-cooked meals, this platform connects you with local home chefs in just a few clicks. Behind the scenes, it’s powered by the MERN stack, secure authentication, real-time order tracking, and integrated payments — all built from scratch to reflect what real users and real businesses need. It’s not just a project — it’s a practical, end-to-end solution brought to life with clean code and clear intent.
 
 ---
 
