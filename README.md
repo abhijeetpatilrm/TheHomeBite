@@ -14,8 +14,9 @@
 
 <br />
 
+<!-- ✅ New functional banner image below -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/674621/143255865-fdcd5f73-06ae-4f24-90a2-6d22f28c46b5.png" alt="TheHomeBite Banner" />
+  <img src="https://images.unsplash.com/photo-1604908177792-09e4d2cda2d4?auto=format&fit=crop&w=1200&q=80" alt="TheHomeBite Banner" style="max-width:100%;" />
 </p>
 
 ---
@@ -90,11 +91,18 @@
 
 ---
 
-🧑‍💻 Author
+🧑‍💻 Author  
 Made with 💖 by Abhijeet Patil
 
-<p align="left"> <a href="https://github.com/abhijeetpatilrm" target="_blank"> <img src="https://img.shields.io/badge/GitHub-abhijeetpatilrm-181717?style=for-the-badge&logo=github" alt="github" /> </a> <a href="mailto:abhijeetpatilhnl@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-Abhijeet_Patil-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<p align="left">
+  <a href="https://github.com/abhijeetpatilrm" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-abhijeetpatilrm-181717?style=for-the-badge&logo=github" alt="github" />
+  </a>
+  <a href="mailto:abhijeetpatilhnl@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Abhijeet_Patil-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-📌 Note
-⭐ Don’t forget to leave a star on the repo if you found it useful!
+📌 **Note**  
+⭐ Don’t forget to leave a star on the repo if you found it useful!  
 📬 Open to collaborations and contributions.
