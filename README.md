@@ -92,7 +92,7 @@
 
 ## 🖼️ Demo Snapshots (Optional - Add screenshots)
 
-> 📸 You can add screenshots here inside a `screenshots/` folder and link them using Markdown:
-```md
-![Home Page](screenshots/home.png)
-![Provider Filter](screenshots/filter.png)
+🧑‍💻 Author
+Made with 💖 by Abhijeet Patil
+
+<p align="left"> <a href="https://github.com/abhijeetpatilrm" target="_blank"> <img src="https://img.shields.io/badge/GitHub-abhijeetpatilrm-181717?style=for-the-badge&logo=github" alt="github" /> </a> <a href="mailto:abhijeetpatilhnl@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-Abhijeet_Patil-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
