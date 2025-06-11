@@ -1,4 +1,4 @@
-import * as React from 'react';
+
 import { AiOutlineDown } from 'react-icons/ai';
 import { useNavigate } from 'react-router-dom';
 import Button from '@mui/material/Button';
